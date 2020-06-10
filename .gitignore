@@ -11,7 +11,8 @@ logs/
 dogs-vs-cats/
 NYT-comments/
 model/
-
+googlemapskey.txt
+강의자료
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
